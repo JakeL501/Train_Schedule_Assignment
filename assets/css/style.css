@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+}
+.jumbotron {
+    background-color: rgb(46, 43, 43);
+    color: black;
+    border: solid 2px red;
+}
+.panel {
+    background-color: rgb(155, 155, 155);
+    color: black;
+    border: solid 2px red;
+}
